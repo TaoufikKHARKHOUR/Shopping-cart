@@ -28,3 +28,5 @@
     - name: Afficher le résultat final
       debug:
         msg: "Application {{ app_name }} déployée avec succès sur {{ inventory_hostname }} port {{ app_port }} !"
+
+# Modifié par Taoufik KHARKHOUR
